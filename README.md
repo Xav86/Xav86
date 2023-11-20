@@ -1,7 +1,7 @@
 # Sobre mim
 Aluno cursando o ensino médio na escola CEDUP Abílio Paulo. Me interesso pelas áreas de tecnologia da informação e procuro sempre adquirir o máximo de conhecimento possível. Tenho interesse na parte Front-end, onde já comecei a estudar HTML e CSS, iniciando PHP, e futuramente pretendo também aprender JavaScript dentre outras linguagens. Tenho um bom conhecimento de Hardware, o que acho muito interessante.
 
-# Abilidades
+# Habilidades
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,php,linkedin,mysql,vscode,figma" />

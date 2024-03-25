@@ -1,10 +1,10 @@
 # Sobre mim
-Aluno cursando o ensino médio na escola CEDUP Abílio Paulo. Me interesso pelas áreas de tecnologia da informação e procuro sempre adquirir o máximo de conhecimento possível. Tenho interesse na parte Front-end, onde já comecei a estudar HTML e CSS, iniciando PHP, e futuramente pretendo também aprender JavaScript dentre outras linguagens. Tenho um bom conhecimento de Hardware, o que acho muito interessante.
+Oi, Meu nome é Gustavo e atualmente estou cursando ensino superior na SATC, na área de Engenharia de Computação. Me interesso pelas áreas de tecnologia da informação e procuro sempre adquirir o máximo de conhecimento possível. Tenho interesse no desenvolvimento web, onde estudo HTML, CSS e PHP. Ainda pretendendo aprender JavaScript dentre outras linguagens variantes dela. Ademais, enho um bom conhecimento de Hardware, o que acho muito interessante.
 
 # Habilidades
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,php,linkedin,mysql,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,php,linkedin,mysql,vscode,figma,bootstrap,notion,windows" />
   </a>
 </p>
 

@@ -4,7 +4,7 @@ Oi, Meu nome é Gustavo e atualmente estou cursando ensino superior na SATC, na 
 # Habilidades
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,php,linkedin,mysql,vscode,figma,bootstrap,notion,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,php,python,linkedin,mysql,vscode,figma,bootstrap,notion,windows" />
   </a>
 </p>
 

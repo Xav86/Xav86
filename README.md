@@ -12,3 +12,9 @@ Oi, Meu nome é Gustavo e atualmente estou cursando ensino superior na SATC, na 
 [![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548999622803)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gon%C3%A7alves-dos-santos-4649ab27b/)
+
+<img
+  align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xav86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Stats"
+/>

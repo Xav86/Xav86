@@ -12,6 +12,22 @@ Oi, atualmente estou cursando ensino superior na SATC, na área de Engenharia de
   </a>
 </p>
 
+<table>
+<tr>
+<td>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xav86&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Stats"
+/>
+</td>
+<td>
+<a href="https://github.com/xav86" title="Perfil do Gustavo">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xav86&theme=dracula&show_icons=true" />
+</a>
+</td>
+</tr>
+</table>
+
 ## 📞 Contatos
 [![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548999622803)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)

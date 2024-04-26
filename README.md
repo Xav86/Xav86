@@ -8,7 +8,7 @@ Oi, atualmente estou cursando ensino superior na SATC, na área de Engenharia de
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,bootstrap,php,python,mysql,vscode,figma,notion,windows"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,bootstrap,php,python,mysql,postman,vscode,figma,notion,windows"/>
   </a>
 </p>
 

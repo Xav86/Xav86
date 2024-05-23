@@ -2,7 +2,7 @@
 
 
 ## 🌱 Sobre min
-Oi, atualmente estou cursando ensino superior na SATC, na área de Engenharia de Computação. Me interesso pelas áreas de tecnologia da informação e procuro sempre adquirir o máximo de conhecimento possível. Tenho interesse no desenvolvimento web, onde estudo HTML, CSS, JavaScript e mais. Estou fanzendo cursos buscando me aprimorando à cada dia. Ademais, tenho um bom conhecimento de Hardware, o que acho muito interessante.
+Oi, atualmente estou cursando ensino superior na SATC, na área de Engenharia de Computação. Me interesso pelas áreas de tecnologia da informação e procuro sempre adquirir o máximo de conhecimento possível. Tenho interesse no desenvolvimento web, onde estudo HTML, CSS, JavaScript e mais. Estou fanzendo cursos buscando me aprimorar à cada dia. Ademais, tenho um bom conhecimento de Hardware, o que acho muito interessante.
 
 ## 🚀 Minhas Skills
 

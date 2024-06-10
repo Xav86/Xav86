@@ -8,7 +8,7 @@ Oi, atualmente estou cursando ensino superior na SATC, na área de Engenharia de
 Vi, estou vendo ou já trabalho com estas ferramentas!
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,docker,bootstrap,php,python,mysql,postman,vscode,figma,notion,windows"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,docker,sequelize,express,bootstrap,php,python,mysql,postman,vscode,figma,notion,windows,linux"/>
   </a>
 </p>
 

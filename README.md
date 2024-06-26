@@ -1,4 +1,4 @@
-# Olá, meu nome é Gustavo!
+#  👋 Olá, meu nome é Gustavo!
 
 
 ## 🌱 Sobre min
@@ -11,6 +11,8 @@ Vi, estou vendo ou já trabalho com estas ferramentas!
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,vue,react,docker,sequelize,express,bootstrap,php,python,mysql,postman,vscode,figma,notion,windows,linux"/>
   </a>
 </p>
+
+## 📊 Algumas estatisticas sobre meu github
 
 <table>
 <tr>
